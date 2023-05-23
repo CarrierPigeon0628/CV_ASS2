@@ -1,3 +1,7 @@
+The intrinsic parameters of my camera : ./IntrinsicsDistortions.txt
+The original image : ./Target.jpg
+The generated bird's-eye-view image : ./BirdsEyeView.jpg
+
 Although the needed items have been displayed in the PDF, you can visit
 
 	https://github.com/CarrierPigeon0628/CV_ASS2
